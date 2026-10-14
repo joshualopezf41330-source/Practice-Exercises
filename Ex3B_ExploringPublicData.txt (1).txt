@@ -1,0 +1,8 @@
+Data.gov is a website that provides free public data from the U.S. government.
+585,834 si how many datasets are listed in the Nost Viewed Datasets.
+The reason they'er tagged the Human Health Category because the data relates to health, medical research, diseases, or healthcare information.
+You can click on the USDA organization name or related links on the dataset page to see more of the USDA datasets.
+You click on where it says Data.g\\organization\\san-francisco-caov then you click on where it says Datasets by Organization.
+City of Los Angeles, City of San Francisco, and State of California are the organizations that I found.
+ The search results became more focused on the nutrition data and it helped find datasets related to food and nutrition for thw results and using more specific search terms gave more relevant results.
+ FoodData Central is a USDA website that provides nutrition information and food composition data.8a:I searched for butter and found nutrition information such as calories, fat, protein, and serving size.8b:The page provides downloadable food and nutrition datasets and the file sizes vary, and more information is available in the dataset documentation or description section.
